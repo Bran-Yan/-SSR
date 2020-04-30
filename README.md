@@ -88,14 +88,48 @@ b.选择不同节点
 
 ### 2.1 准备材料
 
+[安卓联网手机一部](https://cn.bing.com/search?q=%E5%AE%89%E5%8D%93%E8%81%94%E7%BD%91%E6%89%8B%E6%9C%BA&amp;PC=U316&amp;FORM=CHROMN)  (自己想办法)
+[shadowsocksr-release.apk](./software/shadowsocksr-release.apk)  (我提供)
+apk安装包下载不了就用蓝奏云链接: <https://lanzous.com/ic46ajg>
+
+
+
+### 2.2 软件操作和效果
+由于软件禁止截屏录屏，所以采用拍照的形式，效果欠佳。
+
+a.**打开**SSRR软件
+![1](./img/手机端使用1.png)
+
+b.点击**框框**位置，选择节点
+![2](./img/手机端使用2.png)
+
+c.点击"**闪电**"图标就可以测速，查看节点是否可用
+![3](./img/手机端使用3.png)
+
+d.点击"**+**",点击"**添加/升级SSR订阅**"
+![4](./img/手机端使用4.png)
+
+e.点击"**添加订阅地址**"
+![5](./img/手机端使用5.png)
+
+f.把**SSR地址**粘贴到输入框 (友情提供一个https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub)
+![6](./img/手机端使用6.png)
+
+g.点击**飞机图标**连接，点击**框框**测速
+![7](./img/手机端使用7.png)
+
+h.打开<https://www.youtube.com/>效果
+![8](./img/手机端使用8.png)
+
+**i.完成！**
 
 
 
 
-### 2.2 软件操作
+## 3.感谢
 
+希望大家批评指正，共同进步，科学上网一定要科学，遵纪守法，热爱祖国！
 
+本教程(项目)不承担在本教程(项目)使用过程中产生的任何法律和道德责任。
 
-
-
-### 2.3 步骤与结果
+客服QQ：1289028249(备注：TThityou-SSR)
