@@ -11,21 +11,27 @@
 
 下载不了就用百度网盘链接: https://pan.baidu.com/s/1G21AJ96eIsl6FrtYzOJSDA 提取码: k9kx
 
+
+
 ### 1.2 软件操作
 
 #### ShadowsocksR-win-4.9.2
 
-解压下载的ShadowsocksR-win-4.9.2.7z，点击图中红色圈圈**打开软件**
+**解压**下载的ShadowsocksR-win-4.9.2.7z，点击图中红色圈圈**打开软件**
 
-![打开SSR软件](.\img\ShadowsocksR-win-4.9.2软件使用.png)
+![打开SSR软件](./img/ShadowsocksR-win-4.9.2软件使用.png)
 
 怎么**添加节点**和**服务器订阅**自行搜索了解！
+
+------
 
 
 
 #### SwitchyOmega_Chromium.crx
 
-**谷歌类型浏览器添加扩展程序**
+谷歌类型浏览器添加扩展程序
+
+
 
 a.找到**扩展程序**设置
 ![1](./img/添加扩展程序1.png)
@@ -50,10 +56,30 @@ g.**点击**程序，**选中**刚刚创建的模式
 
 h.完成！
 
+------
+
+
+
 
 ### 1.3 步骤与结果
 
+完成两个软件的安装就开始我们的科学上网！
 
+
+
+a.分别打开两个软件，SwitchyOmega选中创建的模式，打开<https://www.youtube.com/>
+
+![测试](./img/打开两软件.png)
+
+
+
+b.选择不同节点
+
+![1](./img/选择节点1.png)
+
+![2](./img/选择节点2.png)
+
+------
 
 
 
