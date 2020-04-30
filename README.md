@@ -89,7 +89,9 @@ b.选择不同节点
 ### 2.1 准备材料
 
 [安卓联网手机一部](https://cn.bing.com/search?q=%E5%AE%89%E5%8D%93%E8%81%94%E7%BD%91%E6%89%8B%E6%9C%BA&amp;PC=U316&amp;FORM=CHROMN)  (自己想办法)
+
 [shadowsocksr-release.apk](./software/shadowsocksr-release.apk)  (我提供)
+
 apk安装包下载不了就用蓝奏云链接: <https://lanzous.com/ic46ajg>
 
 
@@ -120,6 +122,7 @@ g.点击**飞机图标**连接，点击**框框**测速
 
 h.打开<https://www.youtube.com/>效果
 ![8](./img/手机端使用8.png)
+
 
 **i.完成！**
 
