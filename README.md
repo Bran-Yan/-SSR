@@ -9,7 +9,7 @@
 
 [SwitchyOmega_Chromium.crx](./software/SwitchyOmega_Chromium.crx)（谷歌插件，我用的浏览器可以使用谷歌插件，叫百分浏览器）
 
-下载不了就用百度网盘链接: https://pan.baidu.com/s/1G21AJ96eIsl6FrtYzOJSDA 提取码: k9kx
+下载不了就用蓝奏云链接: <https://lanzous.com/ic46ajg>
 
 
 
